@@ -9,12 +9,12 @@
 if (DEV_ENVIROMENT) {
     define('HOST_DDBB', 'localhost');
     define('USERNAME_DDBB', 'javier');
-    define('PASS_DDBB', '8ynWeRbPGWf6Rpdv');
+    define('PASS_DDBB', '**');
     define('NAME_DDBB', 'ajax');
 } else {
     define('HOST_DDBB', 'localhost');
     define('USERNAME_DDBB', 'javier');
-    define('PASS_DDBB', '8ynWeRbPGWf6Rpdv');
+    define('PASS_DDBB', '**');
     define('NAME_DDBB', 'ajax');
 }
 
