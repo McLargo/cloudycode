@@ -1,0 +1,14 @@
+al hacer un include, tenemos acceso a todo el contenido (vartiables, clases, define...)
+
+< a href="root/index.php?nombreVariable=valorVariable
+
+favicon.ico
+
+
+mejorar posicionamiento:
+que funcione para todos los navegadores y todos los S.O. (cosas muy básicas)
+http://www.digitallearning.es/blog/consejos-para-mejorar-tu-posicionamiento-web-estandares/
+
+.htaccess, configurarlo
+
+crear algo para las sessiones
